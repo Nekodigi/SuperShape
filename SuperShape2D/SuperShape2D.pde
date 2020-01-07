@@ -1,3 +1,8 @@
+// Daniel Shiffman
+// http://codingtra.in
+// http://patreon.com/codingtrain
+// Code for: https://youtu.be/akM4wMZIBWg
+
 float n = 5;
 float a = 200;
 float b = 200;
